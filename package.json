@@ -4,5 +4,19 @@
   "description": "Starter for typescript demo",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kljohnes/typescript_demo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kljohnes/typescript_demo/issues"
+  },
+  "homepage": "https://github.com/kljohnes/typescript_demo#readme",
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
 }
